@@ -13,3 +13,7 @@ Podczas prezentacji przedstawione zostały pliki które nie zdążyliśmy zaimpl
 * `audio_norm_ok.wav` jest przykładem muzyki do której rozgrywałaby się gra - w wyniku braku czasu w grze działa jedynie metronom.
 * `audio_wild_ok.wav` jest wersją stylizowaną na popsutą, mającą być wykorzystaną w ostatnim pokoju.
 * `radz.png` jest spritem w świecie gry dla Dr. Mateusza Radzia
+
+## Czcionka
+Czcionka `Micro_Chat.ttf` utworzona przez VEXED, wykorzystana i redestrybuowana na zasadach CC4.0.
+https://v3x3d.itch.io/micro-chat
